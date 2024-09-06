@@ -1,0 +1,47 @@
+#headtxt{
+    font-family:Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: 100;
+    margin: 20px;
+    color: #1c1c1c;
+}
+#secbox{
+    border: 1px solid #e1e1e1;
+    margin: 0px 10px 0px 10px;
+    box-shadow:0 1px 15px 1px rgb(69 65 78 / 19%);
+}
+#ctxt{
+    color: #336677;
+    font-family: "Open Sans",sans-serif;
+    font-size: 14px;
+}
+input:focus{
+    outline: none;
+}
+#userin,#mailin,#dobin{
+    padding: 5px 10px;
+    border: 1px solid #e1e1e1;
+    box-shadow:0 1px 15px 1px rgb(69 65 78 / 3%);
+    border-radius: 5px;
+    width: 340px;
+    margin: 5px;
+}
+#ctab{
+    width: 100%;
+    margin: 4px 10px;
+}
+#ctab1{
+    width: 80%;
+    margin: 4px 10px;
+}
+#subbut{
+    background-color: #f2784b;
+    color: #fff;
+    padding: 7px 10px 7px;
+    border: none;
+    border-radius: 5px;
+}
+#note{
+    text-align: center;
+    font-size: 15px;
+}

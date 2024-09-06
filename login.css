@@ -1,0 +1,105 @@
+body{
+    background-color: #89d1c2;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+}
+#logform{
+    background-color:#eceef1;
+    border-radius: 7px;
+    width: 370px;
+    margin: 10px auto 10px auto;
+    padding: 20px;
+    padding-top: 5px;
+    overflow: hidden;
+    position: relative;
+}
+#t1{
+    color: #F8951B;
+    font-size: 28px;
+    font-weight: 400 !important;
+    margin-top:10px;
+    margin-bottom: 3px;
+}
+#iuser{
+    margin-top: 3px;
+    margin-bottom: 8px;
+}
+#ipass{
+    margin-top: 10px;
+    margin-bottom: 13px;
+}
+#iuser,#ipass{
+    background-color: #dde3ec;
+    border-radius: 4px;
+    box-shadow: none;
+    border:none;
+    color: #A6B2BA;
+    font-weight: normal;
+    font-size: 15px;
+    border:1px solid #dde3ec;
+    padding: 5px;
+    height: 43px;
+    width: 92%;
+    margin-left: auto;
+    margin-right: auto;
+}
+::placeholder{
+    color: #A6B2BA;
+}
+input:focus{
+    outline: none;
+}
+#login{
+    background-color: #f8971d;
+    padding: 10px 20px;
+    font-size: 13px;
+    color: #eceef1;
+    border:none;
+    border-radius: 3px;
+    font-weight: 600 !important;
+    margin-top: 10px;
+    margin-bottom: 3px;
+}
+#cant{
+    font-size: 11px;
+    font-family:"Open Sans", sans-serif;
+}
+a{
+    color: #3175af;
+}
+#rcol{
+    text-align: left;
+}
+#lcol{
+    text-align: right;
+}
+#ltable{
+    width: 100%;
+}
+#cpywrt{
+    color: #7a8ca5;
+    font-size: 12px;
+    margin: 20px auto 10px 0;
+    padding: 5px;
+}
+#hidden{
+    text-align: center;
+    align-items: center;
+}
+#hiddentable{
+    width: 80%;
+    background-color: #ffeedd;
+    border: 1px dashed #bb0000;
+    text-align: center;
+    margin-left: 32px;
+    margin-top: 10px;
+}
+#invalidimg{
+    border: none;
+}
+#invalidtxt{
+    color: #bb0000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    padding: 6px 6px 6px 6px ;
+}
